@@ -13,4 +13,4 @@
 <img width="248" alt="lingkaran3" src="https://user-images.githubusercontent.com/106060694/198916700-29cf93de-1377-4d77-89be-2333661353de.png">
 
 ### itu dia tutorial dari saya sekian terima kasih!!
-![bowo](Praktikum-3/bowo.png)
+![bowo](bowo.png)
